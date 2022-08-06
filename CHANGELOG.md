@@ -6,6 +6,16 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo. Es
 - Atualizações "MINOR" correspondem a mudanças (adição/remoção/atualização) de projetos/vídeos/textos sem adicionar/remover os módulos.
 - As atualizações "PATCH" correspondem a adições/remoções estéticas e não essenciais ou mudança na ordem dos projetos para melhor progressão.
 
+## [0.2.3] 2022-08-06
+
+### Adicionado
+- Adicionado o Vídeo "5 extensões do VS Code que você precisa instalar"
+- Adicionado o Vídeo "A extensão do VS Code que todo iniciante precisa instalar"
+- Adicionado o Vídeo "5 extensões do Google Chrome que você precisa instalar"
+
+### Atualizado
+- Link para o Trelo
+
 ## [0.1.2] 2022-08-06
 
 ### Adicionado
@@ -14,7 +24,7 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo. Es
 
 ### Atualizado
 - Link para a página "thanks"
-- Explicação Versionamento Semântico na página `CHANGELOG.md`
+- Explicação sobre o "Versionamento Semântico" na página `CHANGELOG.md` alterado
 
 ## [0.0.1] 2022-08-06
 

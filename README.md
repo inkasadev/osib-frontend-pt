@@ -102,17 +102,22 @@ Aqui você aprende a trabalhar com HTML, CSS e Javascript, tecnologias que serã
 
 ### HTML/CSS Básico
 
-|                                               Aula                                               |  Tipo   | Duração  |      Esforço       |    Pré-requisitos    | Discussão |
-| :----------------------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------------: | :-------: |
-|                                         Comece por Aqui!                                         |  Vídeo  | Em Breve |      Em Breve      |        nenhum        |     -     |
-|   [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)    |  Texto  |   15m    |       1 hora       |        nenhum        |     -     |
-| [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code) |  Texto  |   15m    |        30m         |        nenhum        |     -     |
-|                                       HTML para Iniciantes                                       |  Vídeo  | Em Breve |      Em Breve      |   Comece por Aqui!   |     -     |
-|                                       CSS para Iniciantes                                        |  Vídeo  | Em Breve |      Em Breve      | HTML para Iniciantes |     -     |
-|               [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files)               | Projeto |  2h30m   | 2-4 horas / semana | CSS para Iniciantes  |   fórum   |
-|               [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4)               |  Vídeo  |    6m    |       1 hora       |    Site Frontbox     |     -     |
-|               [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8)               |  Vídeo  |   27m    |      4 horas       |    Site Frontbox     |     -     |
-|                    [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)                    |  Vídeo  |    7m    |       1 hora       |    Site Frontbox     |     -     |
+|                                                   Aula                                                   | Tipo  | Duração  | Esforço  |     Pré-requisitos      | Discussão |
+| :------------------------------------------------------------------------------------------------------: | :---: | :------: | :------: | :---------------------: | :-------: |
+|                                             Comece por Aqui!                                             | Vídeo | Em Breve | Em Breve |         nenhum          |     -     |
+|       [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)        | Texto |   15m    |  1 hora  |         nenhum          |     -     |
+|     [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code)     | Texto |   15m    |   30m    |         nenhum          |     -     |
+|     [5 extensões do VS Code que você precisa instalar](https://www.youtube.com/watch?v=3CSlwnV19Xg)      | Vídeo |   10m    |   20m    | Como instalar o VS Code |     -     |
+| [A extensão do VS Code que todo iniciante precisa instalar](https://www.youtube.com/watch?v=22Xl-zo_-A8) | Vídeo |    5m    |   10m    | Como instalar o VS Code |     -     |
+
+| [5 extensões do Google Chrome que você precisa instalar](https://www.youtube.com/watch?v=HVYLGA2nOzM)  |  Vídeo  |   10m    |        20m         | nenhum |     -     |
+
+|                                       HTML para Iniciantes                                       |  Vídeo  | Em Breve |      Em Breve      |    Comece por Aqui!     |     -     |
+|                                       CSS para Iniciantes                                        |  Vídeo  | Em Breve |      Em Breve      |  HTML para Iniciantes   |     -     |
+|               [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files)               | Projeto |  2h30m   | 2-4 horas / semana |   CSS para Iniciantes   |   fórum   |
+|               [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4)               |  Vídeo  |    6m    |       1 hora       |      Site Frontbox      |     -     |
+|               [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8)               |  Vídeo  |   27m    |      4 horas       |      Site Frontbox      |     -     |
+|                    [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)                    |  Vídeo  |    7m    |       1 hora       |      Site Frontbox      |     -     |
 
 ### Javascript Básico
 
@@ -188,7 +193,7 @@ Nessa seção você encontra diversos bônus que tem como objetivo te auxiliar n
 ### Monitore o seu progresso
 
 1. Crie uma conta no [Trello](https://trello.com/).
-2. Copie [este quadro](https://trello.com/b/fsJ6ndPo/osib-frontend) para sua conta pessoal. Veja como copiar um quadro [aqui](https://help.trello.com/article/802-copying-cards-lists-or-boards).
+2. Copie [este quadro](https://trello.com/b/fsJ6ndPo/osib-frontend-pt) para sua conta pessoal. Veja como copiar um quadro [aqui](https://help.trello.com/article/802-copying-cards-lists-or-boards).
 
 Agora que você tem uma cópia do nosso quadro oficial, você só precisa passar os cartões para a coluna `Fazendo` ou `Concluído` à medida que avança nos seus estudos.
 
