@@ -62,7 +62,7 @@ Decida quando gastar ou quanto gastar com base em seu próprio tempo e orçament
 
 # Currículo <!-- omit in toc -->
 
-**Versão do Currículo**: `0.0.1` (veja o [CHANGELOG](CHANGELOG.md))
+**Versão do Currículo**: `0.3.4` (veja o [CHANGELOG](CHANGELOG.md))
 
 - [Pré-requisitos](#pré-requisitos)
 - [Starter](#starter)
@@ -102,32 +102,30 @@ Aqui você aprende a trabalhar com HTML, CSS e Javascript, tecnologias que serã
 
 ### HTML/CSS Básico
 
-|                                                   Aula                                                   | Tipo  | Duração  | Esforço  |     Pré-requisitos      | Discussão |
-| :------------------------------------------------------------------------------------------------------: | :---: | :------: | :------: | :---------------------: | :-------: |
-|                                             Comece por Aqui!                                             | Vídeo | Em Breve | Em Breve |         nenhum          |     -     |
-|       [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)        | Texto |   15m    |  1 hora  |         nenhum          |     -     |
-|     [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code)     | Texto |   15m    |   30m    |         nenhum          |     -     |
-|     [5 extensões do VS Code que você precisa instalar](https://www.youtube.com/watch?v=3CSlwnV19Xg)      | Vídeo |   10m    |   20m    | Como instalar o VS Code |     -     |
-| [A extensão do VS Code que todo iniciante precisa instalar](https://www.youtube.com/watch?v=22Xl-zo_-A8) | Vídeo |    5m    |   10m    | Como instalar o VS Code |     -     |
-
-| [5 extensões do Google Chrome que você precisa instalar](https://www.youtube.com/watch?v=HVYLGA2nOzM)  |  Vídeo  |   10m    |        20m         | nenhum |     -     |
-
-|                                       HTML para Iniciantes                                       |  Vídeo  | Em Breve |      Em Breve      |    Comece por Aqui!     |     -     |
-|                                       CSS para Iniciantes                                        |  Vídeo  | Em Breve |      Em Breve      |  HTML para Iniciantes   |     -     |
-|               [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files)               | Projeto |  2h30m   | 2-4 horas / semana |   CSS para Iniciantes   |   fórum   |
-|               [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4)               |  Vídeo  |    6m    |       1 hora       |      Site Frontbox      |     -     |
-|               [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8)               |  Vídeo  |   27m    |      4 horas       |      Site Frontbox      |     -     |
-|                    [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)                    |  Vídeo  |    7m    |       1 hora       |      Site Frontbox      |     -     |
+|                                                   Aula                                                   |  Tipo   | Duração  |      Esforço       |     Pré-requisitos      |                                                                                                 Discussão                                                                                                  |
+| :------------------------------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                             Comece por Aqui!                                             |  Vídeo  | Em Breve |      Em Breve      |         nenhum          |                                                                                                     -                                                                                                      |
+|       [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)        |  Texto  |   15m    |       1 hora       |         nenhum          |                                                                                                     -                                                                                                      |
+|     [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code)     |  Texto  |   15m    |        30m         |         nenhum          |                                                                                                     -                                                                                                      |
+|     [5 extensões do VS Code que você precisa instalar](https://www.youtube.com/watch?v=3CSlwnV19Xg)      |  Vídeo  |   10m    |        20m         | Como instalar o VS Code |                                                                                                     -                                                                                                      |
+| [A extensão do VS Code que todo iniciante precisa instalar](https://www.youtube.com/watch?v=22Xl-zo_-A8) |  Vídeo  |    5m    |        10m         | Como instalar o VS Code |                                                                                                     -                                                                                                      |
+|  [5 extensões do Google Chrome que você precisa instalar](https://www.youtube.com/watch?v=HVYLGA2nOzM)   |  Vídeo  |   10m    |        20m         |         nenhum          |                                                                                                     -                                                                                                      |
+|                                           HTML para Iniciantes                                           |  Vídeo  | Em Breve |      Em Breve      |    Comece por Aqui!     |                                                                                                     -                                                                                                      |
+|                                           CSS para Iniciantes                                            |  Vídeo  | Em Breve |      Em Breve      |  HTML para Iniciantes   |                                                                                                     -                                                                                                      |
+|                   [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files)                   | Projeto |  2h30m   | 2-4 horas / semana |   CSS para Iniciantes   | [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+site+frontbox%22) |
+|                   [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4)                   |  Vídeo  |    6m    |       1 hora       |      Site Frontbox      |                                                                                                     -                                                                                                      |
+|                   [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8)                   |  Vídeo  |   27m    |      4 horas       |      Site Frontbox      |                                                                                                     -                                                                                                      |
+|                        [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)                        |  Vídeo  |    7m    |       1 hora       |      Site Frontbox      |                                                                                                     -                                                                                                      |
 
 ### Javascript Básico
 
-|                                    Aula                                    |  Tipo   | Duração  |      Esforço       |       Pré-requisitos       | Discussão |
-| :------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------------------: | :-------: |
-|                         Javascript para Iniciantes                         |  Vídeo  | Em Breve |      Em Breve      |           nenhum           |     -     |
-| [Placa 100k Youtube](https://github.com/inkasadev/placa100k-starter-files) | Projeto |  1h23m   |      4 horas       | Javascript para Iniciantes |   fórum   |
-|      [Jogo Genius](https://github.com/inkasadev/genius-starter-files)      | Projeto |  2h35m   | 2-4 horas / semana |     Placa 100k Youtube     |   fórum   |
-|                             Calculadora Retrô                              | Projeto | Em Breve |      Em Breve      |     Placa 100k Youtube     |   fórum   |
-|                               OSIB TodoList                                | Projeto | Em Breve |      Em Breve      |     Calculadora Retrô      |   fórum   |
+|                                    Aula                                    |  Tipo   | Duração  |      Esforço       |       Pré-requisitos       |                                                                                                    Discussão                                                                                                    |
+| :------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                         Javascript para Iniciantes                         |  Vídeo  | Em Breve |      Em Breve      |           nenhum           |                                                                                                        -                                                                                                        |
+| [Placa 100k Youtube](https://github.com/inkasadev/placa100k-starter-files) | Projeto |  1h23m   |      4 horas       | Javascript para Iniciantes | [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+placa+100k+youtube%22) |
+|      [Jogo Genius](https://github.com/inkasadev/genius-starter-files)      | Projeto |  2h35m   | 2-4 horas / semana |     Placa 100k Youtube     |    [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+jogo+genius%22)     |
+|                             Calculadora Retrô                              | Projeto | Em Breve |      Em Breve      |     Placa 100k Youtube     |                                                                                                      fórum                                                                                                      |
+|                               OSIB TodoList                                | Projeto | Em Breve |      Em Breve      |     Calculadora Retrô      |                                                                                                      fórum                                                                                                      |
 
 ### Javascript: Clean Code
 
@@ -141,16 +139,16 @@ Todos os projetos do núcleo _Essentials_ são **obrigatórios**, salvo indicaç
 
 ### Web Design Responsivo
 
-|                                      Aula                                      |  Tipo   | Duração  |      Esforço       | Pré-requisitos | Discussão |
-| :----------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------: | :-------: |
-|    [Site Meet Minas](https://github.com/inkasadev/meet-minas-starter-files)    | Projeto |  4h31m   | 2-4 horas / semana |     nenhum     |   fórum   |
-| [Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files) | Projeto | Em curso | 2-4 horas / semana |   Meet Minas   |   fórum   |
+|                                      Aula                                      |  Tipo   | Duração  |      Esforço       | Pré-requisitos |                                                                                                    Discussão                                                                                                    |
+| :----------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|    [Site Meet Minas](https://github.com/inkasadev/meet-minas-starter-files)    | Projeto |  4h31m   | 2-4 horas / semana |     nenhum     |  [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+site+meet+minas%22)   |
+| [Site Clarim Diário](https://github.com/inkasadev/clarim-diario-starter-files) | Projeto | Em curso | 2-4 horas / semana |   Meet Minas   | [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+site+clarim+diario%22) |
 
 ### Javascript Essentials
 
-|                                       Aula                                        |         | Duração  |      Esforço       | Pré-requisitos | Discussão |
-| :-------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------: | :-------: |
-| [Dashboard Covid Brasil](https://github.com/inkasadev/covid-brasil-starter-files) | Projeto | Em curso | 2-4 horas / semana |   Meet Minas   |   fórum   |
+|                                       Aula                                        |         | Duração  |      Esforço       | Pré-requisitos |                                                                                                      Discussão                                                                                                      |
+| :-------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Dashboard Covid Brasil](https://github.com/inkasadev/covid-brasil-starter-files) | Projeto | Em curso | 2-4 horas / semana |   Meet Minas   | [fórum](https://github.com/inkasadev/osib-frontend-pt/discussions/categories/-g-perguntas-e-respostas?discussions_q=category%3A%22%28G%29+Perguntas+e+Respostas%22+label%3A%22projeto%3A+dashboard+covid+brasil%22) |
 
 ## Intermediate
 
