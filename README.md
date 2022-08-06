@@ -53,7 +53,7 @@ Decida quando gastar ou quanto gastar com base em seu próprio tempo e orçament
 
 **[Conseguindo ajuda](HELP.md)** (Detalhes sobre nosso FAQ e Fórum)
 
-**[Pessoas e Empresas que tornam esse trabalho possível](extras/THANKS.md)**
+**[Pessoas e Empresas que tornam esse trabalho possível](https://github.com/inkasadev/osib-thanks-pt)**
 
 # Comunidade <!-- omit in toc -->
 
@@ -102,15 +102,17 @@ Aqui você aprende a trabalhar com HTML, CSS e Javascript, tecnologias que serã
 
 ### HTML/CSS Básico
 
-|                                 Aula                                 |  Tipo   | Duração  |      Esforço       |    Pré-requisitos    | Discussão |
-| :------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------------: | :-------: |
-|                           Comece por Aqui!                           |  Vídeo  | Em Breve |      Em Breve      |        nenhum        |     -     |
-|                         HTML para Iniciantes                         |  Vídeo  | Em Breve |      Em Breve      |   Comece por Aqui!   |     -     |
-|                         CSS para Iniciantes                          |  Vídeo  | Em Breve |      Em Breve      | HTML para Iniciantes |     -     |
-| [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files) | Projeto |  2h30m   | 2-4 horas / semana | CSS para Iniciantes  |   fórum   |
-| [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4) |  Vídeo  |    6m    |       1 hora       |    Site Frontbox     |     -     |
-| [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8) |  Vídeo  |   27m    |      4 horas       |    Site Frontbox     |     -     |
-|      [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)      |  Vídeo  |    7m    |       1 hora       |    Site Frontbox     |     -     |
+|                                               Aula                                               |  Tipo   | Duração  |      Esforço       |    Pré-requisitos    | Discussão |
+| :----------------------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :------------------: | :-------: |
+|                                         Comece por Aqui!                                         |  Vídeo  | Em Breve |      Em Breve      |        nenhum        |     -     |
+|   [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)    |  Texto  |   15m    |       1 hora       |        nenhum        |     -     |
+| [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code) |  Texto  |   15m    |        30m         |        nenhum        |     -     |
+|                                       HTML para Iniciantes                                       |  Vídeo  | Em Breve |      Em Breve      |   Comece por Aqui!   |     -     |
+|                                       CSS para Iniciantes                                        |  Vídeo  | Em Breve |      Em Breve      | HTML para Iniciantes |     -     |
+|               [Site Frontbox](https://github.com/inkasadev/frontbox-starter-files)               | Projeto |  2h30m   | 2-4 horas / semana | CSS para Iniciantes  |   fórum   |
+|               [Como colocar um ícone na aba do site](https://youtu.be/B-XhykQtkC4)               |  Vídeo  |    6m    |       1 hora       |    Site Frontbox     |     -     |
+|               [Como enviar um projeto para o Github](https://youtu.be/EZN9-dKC5d8)               |  Vídeo  |   27m    |      4 horas       |    Site Frontbox     |     -     |
+|                    [Como hospedar um site HTML](https://youtu.be/CHgBusY7WHY)                    |  Vídeo  |    7m    |       1 hora       |    Site Frontbox     |     -     |
 
 ### Javascript Básico
 
