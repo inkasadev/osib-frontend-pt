@@ -213,7 +213,7 @@ São quizzes postados diariamente na aba comunidade do canal que tem com o objet
 
 ###  Projetos para Estudo
 
-Pequenos projetos de frontend para estudo. Esses projetos são postados no Instagram e seu código em um Canal do Telegram. [Clique aqui](https://www.instagram.com/inkasadev/) para ver os vídeos dos projetos já postados e [clique aqui](https://t.me/inkasadev) para ter acesso ao código fonte desses projetos.
+Pequenos projetos de frontend para estudo. Esses projetos são postados no Instagram e seu código em um Canal do Telegram. [Clique aqui](https://www.instagram.com/inkasadev/) para ver os vídeos dos projetos já postados e [clique aqui](https://t.me/inkasadev) para ter acesso ao código fonte desses projetos. Obs: Alguns projetos postados no [Instagram](https://www.instagram.com/inkasadev/) não fazem parte dessa categoria.
 
 ### The Best of Bolha Dev
 
