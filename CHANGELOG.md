@@ -6,6 +6,14 @@ Todas as mudanças notáveis neste projeto serão documentadas neste arquivo. Es
 - Atualizações "MINOR" correspondem a mudanças (adição/remoção/atualização) de projetos/vídeos/textos sem adicionar/remover os módulos.
 - As atualizações "PATCH" correspondem a adições/remoções estéticas e não essenciais ou mudança na ordem dos projetos para melhor progressão.
 
+## [0.3.5] 2022-09-04
+
+## Added
+- Adicionada seção "Consulte a Wiki da OSIB: Frontend" na página `HELP.md`
+
+## Fixed
+- Link do botão "Li e Concordo" na página `FORUM.md`
+
 ## [0.3.4] 2022-08-06
 
 ## Added

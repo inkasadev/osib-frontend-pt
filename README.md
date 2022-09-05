@@ -62,7 +62,7 @@ Decida quando gastar ou quanto gastar com base em seu próprio tempo e orçament
 
 # Currículo <!-- omit in toc -->
 
-**Versão do Currículo**: `0.3.4` (veja o [CHANGELOG](CHANGELOG.md))
+**Versão do Currículo**: `0.3.5` (veja o [CHANGELOG](CHANGELOG.md))
 
 - [Pré-requisitos](#pré-requisitos)
 - [Starter](#starter)

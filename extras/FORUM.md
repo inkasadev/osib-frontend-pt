@@ -137,5 +137,5 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 _____
 
 <p>
-<a href="https://github.com/inkasadev/osib-frontend/discussions"><img src="../assets/button.png" alt="OSIB: Frontend" /></a>
+<a href="https://github.com/inkasadev/osib-frontend-pt/discussions"><img src="../assets/button.png" alt="OSIB: Frontend" /></a>
 </p>

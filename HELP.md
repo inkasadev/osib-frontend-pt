@@ -7,6 +7,9 @@ Por favor, verifique o nosso [FAQ (Perguntas Frequentes)](FAQ.md) para ver se su
 
 Junte-se ao [fórum da OSIB: Frontend](extras/FORUM.md)! Lá é onde você pode conversar com outros alunos e obter ajuda.
 
+## Consulte a Wiki da OSIB: Frontend
+Na [Wiki da OSIB Frontend](https://github.com/inkasadev/osib-frontend-pt/wiki) você encontra conteúdos que facilmente ficariam datados em um vídeo do youtube, como instalação de ferramentas, folhas de dicas (cheatsheets), checklists, workflows, etc.
+
 ### Problemas específicos
 
 Se você precisar de ajuda para concluir com êxito algum projeto ou tiver dificuldades técnicas gerais, primeiro consulte as dúvidas relacionadas ao projeto em questão no nosso fórum. Se você precisar de ajuda adicional depois disso, poste no fórum a sua dúvida. **Em sua postagem, mencione quais etapas você já tomou para tentar resolver o problema**.
