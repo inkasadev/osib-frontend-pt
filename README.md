@@ -62,7 +62,7 @@ Decida quando gastar ou quanto gastar com base em seu próprio tempo e orçament
 
 # Currículo <!-- omit in toc -->
 
-**Versão do Currículo**: `0.3.5` (veja o [CHANGELOG](CHANGELOG.md))
+**Versão do Currículo**: `0.4.5` (veja o [CHANGELOG](CHANGELOG.md))
 
 - [Pré-requisitos](#pré-requisitos)
 - [Starter](#starter)
@@ -104,7 +104,7 @@ Aqui você aprende a trabalhar com HTML, CSS e Javascript, tecnologias que serã
 
 |                                                   Aula                                                   |  Tipo   | Duração  |      Esforço       |     Pré-requisitos      |                                                                                                 Discussão                                                                                                  |
 | :------------------------------------------------------------------------------------------------------: | :-----: | :------: | :----------------: | :---------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                             Comece por Aqui!                                             |  Vídeo  | Em Breve |      Em Breve      |         nenhum          |                                                                                                     -                                                                                                      |
+|                     [Comece por Aqui!](https://www.youtube.com/watch?v=UnE9NDXCYs4)                      |  Vídeo  |   25m    |       1 hora       |         nenhum          |                                                                                                     -                                                                                                      |
 |       [Como instalar o Chocolatey](https://github.com/inkasadev/osib-frontend-pt/wiki/Chocolatey)        |  Texto  |   15m    |       1 hora       |         nenhum          |                                                                                                     -                                                                                                      |
 |     [Como instalar o VS Code](https://github.com/inkasadev/osib-frontend-pt/wiki/Visual-Studio-Code)     |  Texto  |   15m    |        30m         |         nenhum          |                                                                                                     -                                                                                                      |
 |     [5 extensões do VS Code que você precisa instalar](https://www.youtube.com/watch?v=3CSlwnV19Xg)      |  Vídeo  |   10m    |        20m         | Como instalar o VS Code |                                                                                                     -                                                                                                      |
