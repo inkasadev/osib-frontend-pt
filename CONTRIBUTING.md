@@ -34,7 +34,7 @@ Este é um projeto 100% Open Source e meu trabalho é financiado pela comunidade
 ### Para doações mensais:
 
 - [Catarse](https://catarse.me/osib)
-- [Github Sponsors](https://#)
+- [Github Sponsors](https://github.com/sponsors/inkasadev)
 
 ### Para uma doação única:
 
